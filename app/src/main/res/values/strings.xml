@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+    <string name="signup" translatable="false">Daftar</string>
+    <string name="login" translatable="false">Masuk</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="maps">Maps</string>
+    <string name="message_login_page">Ayo Login dan lihat cerita mereka yang sudah belajar Di Dicoding!</string>
+    <string name="message_signup_page">Isi data di bawah ini untuk membuat akun baru!</string>
+    <string name="title_login_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Buat akun Story App milikmu!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="description_add">Add your description here…</string>
+    <string name="upload">Upload</string>
+    <string name="caption">This is caption</string>
+    <string name="description" translatable="false">Write your description</string>
+    <string name="error_password" translatable="false">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
